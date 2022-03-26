@@ -1,6 +1,6 @@
 ### Hi I'm Rachel 👋
 
-![Visitor Count](https://profile-counter.glitch.me/rachelwritingcode/count.svg)
+![](https://komarev.com/ghpvc/?username=rachelwritingcode&color=ff69b4)
 
 I'm a software developer experienced with the Python, Golang, JavaScript & Java. I'm interesting in adopting best practices to write clean and secure code.
 
