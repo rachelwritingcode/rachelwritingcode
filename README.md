@@ -9,7 +9,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - ⚔️ 🛡️ Cyber Security is my hobby
 - 📖 I'm currently reading [Klara & The Sun](https://www.goodreads.com/book/show/54120408-klara-and-the-sun) 
 
-#### Previous Workshops & Talks
+#### Select Workshops & Talks
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
 
