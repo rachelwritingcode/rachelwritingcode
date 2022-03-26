@@ -1,5 +1,7 @@
 ### Hi I'm Rachel 👋
 
+![Visitor Count](https://profile-counter.glitch.me/rachelwritingcode/count.svg)
+
 I'm a software developer experienced with the Python, Golang, JavaScript & Java. I'm interesting in adopting best practices to write clean and secure code.
 
 - 🍎 I love learning and sharing what I've learned.
