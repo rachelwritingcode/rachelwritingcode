@@ -25,7 +25,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 <a href="https://www.linkedin.com/in/rachelwritingcode/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/jaderabbit.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/jaderabbit"><img src="https://tryhackme-badges.s3.amazonaws.com/jaderabbit.png" alt="TryHackMe"></a>
 
 
 #### Cool stats 😎
