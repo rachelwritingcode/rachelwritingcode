@@ -15,9 +15,9 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 🎉 [Python Pizza Hamburg Conference 2020: Cat GIFS & the Ten Python Packages of 2020](https://docs.google.com/presentation/d/1m4HYGgQy2E6EJhx0Bley5M0kuDNYkfApxSodqENU1OQ/edit?usp=sharing)
 
-🎉 [Pycon Canada 2019: Data Insights from Linked Data](https://docs.google.com/presentation/d/1T57ePFj-ZWAo04vi44e3E56X8_XVkeInWIk3R_lnBM8/edit?usp=sharing)
+🎉 [Pycon Canada Conference 2019: Data Insights from Linked Data](https://docs.google.com/presentation/d/1T57ePFj-ZWAo04vi44e3E56X8_XVkeInWIk3R_lnBM8/edit?usp=sharing)
 
-🎉 [University of Toronto Carpentries 2019: Intro to Git & Github](https://docs.google.com/presentation/d/12bTlX9TLeKlBgRKVjLKifcON3wQde0GvZbGAUD3DaZI/edit?usp=sharing)
+🎉 [University of Toronto Carpentries Workshop 2019: Intro to Git & Github](https://docs.google.com/presentation/d/12bTlX9TLeKlBgRKVjLKifcON3wQde0GvZbGAUD3DaZI/edit?usp=sharing)
 
 #### Where to reach me 📭
 
