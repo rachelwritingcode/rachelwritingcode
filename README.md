@@ -1,7 +1,5 @@
 ### Hi I'm Rachel 👋
 
-![](https://komarev.com/ghpvc/?username=rachelwritingcode&color=ff69b4)
-
 I'm a software developer experienced with the Python, Golang, JavaScript & Java. I'm interesting in adopting best practices to write clean and secure code.
 
 - 🍎 I love learning and sharing what I've learned.
@@ -26,3 +24,5 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 🔗 [LinkedIn](https://www.linkedin.com/in/rachelwritingcode/)
 
 🐇 [TryHackMe @jaderabbit](https://tryhackme.com/p/jaderabbit)
+
+![](https://komarev.com/ghpvc/?username=rachelwritingcode&color=ff69b4)
