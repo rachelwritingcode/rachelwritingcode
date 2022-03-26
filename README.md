@@ -13,7 +13,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
 
-🎉 [Python Hamburg 2020: Cat GIFS & the Ten Python Packages of 2020](https://docs.google.com/presentation/d/1m4HYGgQy2E6EJhx0Bley5M0kuDNYkfApxSodqENU1OQ/edit?usp=sharing)
+🎉 [Python Pizza Hamburg Conference 2020: Cat GIFS & the Ten Python Packages of 2020](https://docs.google.com/presentation/d/1m4HYGgQy2E6EJhx0Bley5M0kuDNYkfApxSodqENU1OQ/edit?usp=sharing)
 
 🎉 [Pycon Canada 2019: Data Insights from Linked Data](https://docs.google.com/presentation/d/1T57ePFj-ZWAo04vi44e3E56X8_XVkeInWIk3R_lnBM8/edit?usp=sharing)
 
