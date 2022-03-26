@@ -9,6 +9,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - ⚔️ 🛡️ Cyber Security is my hobby
 - 📖 I'm currently reading [Klara & The Sun](https://www.goodreads.com/book/show/54120408-klara-and-the-sun) 
 
+
 #### Select Workshops & Talks
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
@@ -19,10 +20,14 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 🎉 [University of Toronto Carpentries Workshop 2019: Intro to Git & Github](https://docs.google.com/presentation/d/12bTlX9TLeKlBgRKVjLKifcON3wQde0GvZbGAUD3DaZI/edit?usp=sharing)
 
+
 #### Where to reach me 📭
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rachelwritingcode/)
+<a href="https://www.linkedin.com/in/rachelwritingcode/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-🐇 [TryHackMe @jaderabbit](https://tryhackme.com/p/jaderabbit)
+<img src="https://tryhackme-badges.s3.amazonaws.com/jaderabbit.png" alt="TryHackMe">
+
+
+#### Cool stats 😎
 
 ![](https://komarev.com/ghpvc/?username=rachelwritingcode&color=ff69b4)
