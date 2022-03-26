@@ -21,7 +21,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 🎉 [University of Toronto Carpentries Workshop 2019: Intro to Git & Github](https://docs.google.com/presentation/d/12bTlX9TLeKlBgRKVjLKifcON3wQde0GvZbGAUD3DaZI/edit?usp=sharing)
 
 
-#### Where to reach me 📭
+#### Where to Reach Me 📭
 
 <a href="https://www.linkedin.com/in/rachelwritingcode/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
