@@ -21,6 +21,6 @@ I'm a software developer experienced with the Python, Golang & Java. I'm interes
 
 #### Where to reach me 📭
 
-🔗 [LinkedIn](https://www.linkedin.com/in/codewithrachel/)
+🔗 [LinkedIn](https://www.linkedin.com/in/rachelwritingcode/)
 
 🐇 [TryHackMe @jaderabbit](https://tryhackme.com/p/jaderabbit)
