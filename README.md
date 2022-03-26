@@ -2,8 +2,9 @@
 
 I'm a software developer experienced with the Python, Golang & Java. I'm interesting in adopting best practices to write clean and secure code.
 
-- 🍎 I love learning and sharing what I've learned so I teach with the non-profit [@thecarpentries](https://carpentries.org/)
-- 👩🏻‍🎓 I am a life-long learner, I just completed a certficiate in Cyber Security Management (look out for a future blog post about this!)
+- 🍎 I love learning and sharing what I've learned.
+- 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
+- 👩🏻‍🎓 I just completed a certficiate in Cyber Security Management(look out for a future blog post about this!)
 - 🫖 I'm not HTTP 418 but I do love tea 
 - ⚔️ 🛡️ Cyber Security is my hobby
 - 📖 I'm currently reading [Klara & The Sun](https://www.goodreads.com/book/show/54120408-klara-and-the-sun) 
