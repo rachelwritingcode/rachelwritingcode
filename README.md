@@ -1,6 +1,6 @@
 ### Hi I'm Rachel 👋
 
-I'm a software developer experienced with the Python, Golang & Java. I'm interesting in adopting best practices to write clean and secure code.
+I'm a software developer experienced with the Python, Golang, JavaScript & Java. I'm interesting in adopting best practices to write clean and secure code.
 
 - 🍎 I love learning and sharing what I've learned.
 - 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
