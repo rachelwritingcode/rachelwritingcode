@@ -4,10 +4,8 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 - 🍎 I love learning and sharing what I've learned.
 - 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
-- 👩🏻‍🎓 I just completed a certificate in Cyber Security Management (look out for a future blog post about this!)
 - 🫖 I'm not HTTP 418 but I do love tea 
-- ⚔️ 🛡️ Cyber Security is my hobby
-
+- 📖 I'm currently reading [Eloquent JavaScript](https://eloquentjavascript.net/01_values.html)
 
 #### Currently Powering Up ⚡
 
