@@ -7,6 +7,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🫖 I'm not HTTP 418 but I do love tea 
 - 📖 I'm currently reading [Eloquent JavaScript](https://eloquentjavascript.net/01_values.html)
 
+
 #### Currently Powering Up ⚡
 
 - ⬆️ With [JavaScript 30](https://github.com/wesbos/JavaScript30/)
