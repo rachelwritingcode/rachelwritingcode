@@ -8,6 +8,11 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🫖 I'm not HTTP 418 but I do love tea 
 - ⚔️ 🛡️ Cyber Security is my hobby
 
+
+#### Currently Powering Up ⚡
+
+- ⬆️ With [JavaScript 30](https://github.com/wesbos/JavaScript30/)
+
 #### Select Workshops & Talks
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
@@ -29,3 +34,6 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 #### Cool stats 😎
 
 ![](https://komarev.com/ghpvc/?username=rachelwritingcode&color=ff69b4)
+
+
+
