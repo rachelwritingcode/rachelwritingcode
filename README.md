@@ -5,7 +5,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🍎 I love learning and sharing what I've learned.
 - 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
 - 🫖 I'm not HTTP 418 but I do love tea 
-- 📖 I'm currently reading [Eloquent JavaScript](https://eloquentjavascript.net/01_values.html) & [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- 📖 I'm currently reading [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
 
 #### Currently Powering Up ⚡
