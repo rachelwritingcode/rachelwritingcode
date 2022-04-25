@@ -7,11 +7,11 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🫖 I'm not HTTP 418 but I do love tea 
 - ⌨️ Newbie blogger [here](https://rachelwritingcode.github.io/) (WIP, more content coming soon!)
 
-#### Currently Powering Up ⚡
-
-- ⬆️ With [JavaScript 30](https://github.com/wesbos/JavaScript30/) - As I completed each exercise I add a README.md in each challenge folder about what I learned. 
+#### What I'm Working On ⚡🔨  
+- ⚡🔨  Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
+- ⚡🔨  Powering up with [JavaScript 30](https://github.com/wesbos/JavaScript30/) - As I completed each exercise I add a README.md in each challenge folder about what I learned. 
 - 💛 Boosting Knowledge with [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
- 
+
 #### Select Workshops & Talks
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
