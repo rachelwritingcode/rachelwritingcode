@@ -29,6 +29,8 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 <a href="https://www.twitter.com/rachelwritecode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
+<img src="https://www.codewars.com/users/jaderabbit/badges/micro">
+
 <a href="https://tryhackme.com/p/jaderabbit"><img src="https://tryhackme-badges.s3.amazonaws.com/jaderabbit.png" alt="TryHackMe"></a>
 
 #### Cool stats 😎
