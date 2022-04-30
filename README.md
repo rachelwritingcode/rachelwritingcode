@@ -10,8 +10,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 #### What I'm Working On ⚡  
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🔥 Powering up with [JavaScript 30](https://github.com/wesbos/JavaScript30/) and blogging about what I learn! 
-- 💛 Boosting Knowledge with [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
-- 🏋🏻‍♀️ Training with [Gophercises](https://gophercises.com/)
+- 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
 
 
 #### Select Workshops & Talks
