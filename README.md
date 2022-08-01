@@ -8,7 +8,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - ⌨️ Newbie blogger [here](https://rachelwritingcode.github.io/) (WIP, more content coming soon!)
 
 #### What I'm Working On ⚡  
-- 🐍 Creating a new workshop for Python Beginners in Cyber Security! (Stay tuned for more! )
+- 🐍 Creating a new [Python workshop series](https://rachelwritingcode.github.io/python-programming) for beginners in Cyber Security!
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
 
