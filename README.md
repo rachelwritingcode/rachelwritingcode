@@ -6,7 +6,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
 - 🫖 I'm not HTTP 418 but I do love tea 
 - ⌨️ Newbie blogger [here](https://rachelwritingcode.github.io/)
-- 🥮 🌕 🐇 中秋快乐! 
+
 
 #### What I'm Working On ⚡  
 - 🐍 Creating a new [Python workshop series](https://rachelwritingcode.github.io/python-programming) for beginners in Cyber Security!
