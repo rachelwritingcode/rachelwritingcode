@@ -9,12 +9,14 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 
 #### What I'm Working On ⚡  
-- 🎉🐍🎉 Teaching a Python for Cyber Security!
+- 🎉🐍🎉 Finished teaching a Python Workshop Series with [@CyberAegis](https://cyber-aegis.ca/) 
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
 
 
 #### Select Workshops & Talks
+
+🎉 [Cyber Aegis Python Workshop Series 2022](https://github.com/rachelwritingcode/cyber-aegis-python-workshop)
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
 
