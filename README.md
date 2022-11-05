@@ -16,7 +16,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 #### Select Workshops & Talks
 
-🎉 [Cyber Aegis Python Workshop Series 2022](https://github.com/rachelwritingcode/cyber-aegis-python-workshop)
+🎉 [Cyber Aegis Python Workshop Series 2022](https://tinyurl.com/cyber-aegis-python)
 
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
 
