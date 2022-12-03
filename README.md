@@ -9,7 +9,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 
 #### What I'm Working On ⚡ 
-- 🎄🎅🌟 Advent of Code 2022 & collecting 🌟🌟🌟 stars! 
+- 🎄🎅🌟 Advent of Code 2022 : ![](https://img.shields.io/badge/stars%20⭐-34-yellow)
 - 🎉🐍🎉 Finished teaching a Python Workshop Series with [@CyberAegis](https://cyber-aegis.ca/) 
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
