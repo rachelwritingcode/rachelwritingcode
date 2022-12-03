@@ -8,7 +8,8 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - ⌨️ Newbie blogger [here](https://rachelwritingcode.github.io/)
 
 
-#### What I'm Working On ⚡  
+#### What I'm Working On ⚡ 
+- 🎄🎅 Advent of Code 2022! 
 - 🎉🐍🎉 Finished teaching a Python Workshop Series with [@CyberAegis](https://cyber-aegis.ca/) 
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
