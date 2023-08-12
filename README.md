@@ -11,8 +11,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 #### What I'm Working On ⚡ 
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
-- 🐝 Always learning something new (Go Yellow Jackets!)
-
+- 🐝 Always learning something new
 
 #### Select Workshops & Talks
 
