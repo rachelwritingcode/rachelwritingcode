@@ -9,10 +9,9 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 
 #### What I'm Working On ⚡ 
-- 🅰️ Learning Angular
 - 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
 - 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
-- 🐝 Always learning something new
+- 🐝 Always learning something new (Go Yellow Jackets!)
 
 
 #### Select Workshops & Talks
@@ -31,8 +30,6 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 #### Where to Reach Me 📭
 
 <a href="https://www.linkedin.com/in/rachelwritingcode/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="https://www.twitter.com/rachelwritecode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 <a href="https://www.codewars.com/users/jaderabbit"><img src="https://www.codewars.com/users/jaderabbit/badges/micro"></a>
 
