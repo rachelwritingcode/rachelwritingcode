@@ -8,11 +8,6 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🫖 I'm not HTTP 418 but I do love tea 
 - ⌨️ Newbie blogger [here](https://rachelwritingcode.github.io/)
 
-
-#### What I'm Working On ⚡ 
-- 🔨 Refining my [Book or Movie Review & Recommendation APIs](https://github.com/rachelwritingcode/book-or-movie-api) project
-- 🏋🏻‍♀️ Training my Golang skills with [Gophercises](https://gophercises.com/)
-
 #### Select Workshops & Talks
 
 🎉 [Cyber Aegis Python Workshop Series 2022](https://tinyurl.com/cyber-aegis-python)
