@@ -1,12 +1,12 @@
 ### Hi I'm Rachel 👋
 
-I'm a software developer experienced with the Python, Golang, JavaScript & Java. I'm interesting in adopting best practices to write clean and secure code.
+I'm a software developer experienced with the Python, Golang, JavaScript & Java. 
 
-- 🍎 I love learning and sharing what I've learned.
-- 🐝 MSc Computer Science Student @ Georgia Tech
-- 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
+- 🐝 MSc Computer Science Student @ Georgia Institute of Technology
+- 📚 My graduate coursework is focused on optimizing and securing computing systems.
+- 🔐 I care about information system resilience and write about software and security [here.](https://rachelwritingcode.github.io/)
+- 👩🏻‍🏫 I sometimes teach technology skills, list of workshops [here]()
 - 🫖 I'm not HTTP 418 but I do love tea 
-- ⌨️ I blog [here](https://rachelwritingcode.github.io/)
 
 #### Select Workshops & Talks
 
