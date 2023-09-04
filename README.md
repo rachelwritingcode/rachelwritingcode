@@ -2,7 +2,7 @@
 
 I'm a software developer experienced with the Python, Golang, JavaScript & Java. 
 
-- 🐝 MSc Computer Science Student @ Georgia Institute of Technology
+- 🐝 MSc Computer Science Student @ [Georgia Institute of Technology](https://www.cc.gatech.edu/)
 - 📚 My graduate coursework is focused on optimizing and securing computing systems.
 - 🔐 I care about information system resilience and write about software and security [here.](https://rachelwritingcode.github.io/)
 - 👩🏻‍🏫 I sometimes teach technology skills, list of workshops [here]()
