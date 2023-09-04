@@ -6,7 +6,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🐝 MSc Computer Science Student @ Georgia Tech
 - 👩🏻‍🏫 I teach with the non-profit [@thecarpentries](https://carpentries.org/)
 - 🫖 I'm not HTTP 418 but I do love tea 
-- ⌨️ Newbie blogger [here](https://rachelwritingcode.github.io/)
+- ⌨️ I blog [here](https://rachelwritingcode.github.io/)
 
 #### Select Workshops & Talks
 
