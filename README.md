@@ -7,7 +7,7 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 - 🔐 I care about information system resilience and write about software and security [here.](https://rachelwritingcode.github.io/)
 - 👩🏻‍🏫 I sometimes teach technology skills, list of workshops [here](https://rachelwritingcode.github.io/workshops)
 - 🫖 I'm not HTTP 418 but I do love tea
-- 📖🎅🏻 Currently (re) learning C with [Advent of Code circa 2021](https://github.com/rachelwritingcode/advent-of-code-2021-in-c). 
+- 📖 What's on my technology reading list? Click [here](https://rachelwritingcode.github.io/reading)
 
 #### Select Workshops & Talks
 
