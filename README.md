@@ -26,10 +26,6 @@ I'm a software developer experienced with the Python, Golang, JavaScript & Java.
 
 <a href="https://www.linkedin.com/in/rachelwritingcode/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://www.codewars.com/users/jaderabbit"><img src="https://www.codewars.com/users/jaderabbit/badges/micro"></a>
-
-<a href="https://tryhackme.com/p/jaderabbit"><img src="https://tryhackme-badges.s3.amazonaws.com/jaderabbit.png" alt="TryHackMe"></a>
-
 #### Cool stats 😎
 
 ![](https://komarev.com/ghpvc/?username=rachelwritingcode&color=ff69b4)
