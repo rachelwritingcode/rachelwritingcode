@@ -3,7 +3,7 @@
 I'm a DevOps developer experienced with the Python, Golang, JavaScript & Java. 
 
 - 🐝 MSc Computer Science Student @ [Georgia Institute of Technology](https://www.cc.gatech.edu/)
-- 📚 My graduate coursework is focused on optimizing and securing computing systems.
+- 📚 My graduate coursework is focused on topics of AI, Machine Learning and Human-Computer Interaction.
 - 👩🏻‍🏫 I sometimes teach technology skills, list of workshops [here](https://rachelwritingcode.github.io/workshops)
 - 🫖 I'm not HTTP 418 but I do love tea
 - 📖 What's on my technology reading list? Click [here](https://rachelwritingcode.github.io/reading)
