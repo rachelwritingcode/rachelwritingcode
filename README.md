@@ -7,6 +7,7 @@ I'm a DevOps developer experienced with the Python, Golang, JavaScript & Java.
 - 👩🏻‍🏫 I sometimes teach technology skills, list of workshops [here](https://rachelwritingcode.github.io/workshops)
 - 🫖 I'm not HTTP 418 but I do love tea
 - 📖 What's on my technology reading list? Click [here](https://rachelwritingcode.github.io/reading)
+- ✍️ Currently spending a lot of time with EndNote but feel free to ask me about my research.
 
 #### Select Workshops & Talks
 
