@@ -1,6 +1,6 @@
 ### Hi I'm Rachel 👋
 
-I'm a DevOps developer experienced with the Python, Golang, JavaScript & Java. 
+I'm a Developer experienced with the Python, Golang, JavaScript & Java. 
 
 - 🐝 MSc Computer Science Student @ [Georgia Institute of Technology](https://www.cc.gatech.edu/)
 - 📚 My graduate coursework is focused on topics of AI, Machine Learning and Human-Computer Interaction.
