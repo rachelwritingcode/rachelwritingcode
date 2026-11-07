@@ -10,15 +10,15 @@ I'm a Developer experienced with the Python, Golang, JavaScript & Java.
 - ✍️ Currently spending a lot of time with EndNote but feel free to ask me about my research.
 
 #### Select Workshops & Talks
-🌟 [Choice 360 Webinar 2026: AI Speech-to-Text in Practice](https://www.choice360.org/webinars/ai-speech-to-text-in-practice-lessons-for-library-workflows-testing-and-evaluation/)
+⭐ [Choice 360 Webinar 2026: AI Speech-to-Text in Practice](https://www.choice360.org/webinars/ai-speech-to-text-in-practice-lessons-for-library-workflows-testing-and-evaluation/)
 
-🌟 [2024 DSpace North American User Group Meeting: Developing a New National Shared Repository Service in Canada](https://wiki.lyrasis.org/spaces/DSPACE/pages/321585441/2024+DSpace+North+American+User+Group+Meeting?preview=%2F321585441%2F360251450%2FDSpace+2024+North+America+User+Group+Meeting.pdf)
+⭐ [2024 DSpace North American User Group Meeting: Developing a New National Shared Repository Service in Canada](https://wiki.lyrasis.org/spaces/DSPACE/pages/321585441/2024+DSpace+North+American+User+Group+Meeting?preview=%2F321585441%2F360251450%2FDSpace+2024+North+America+User+Group+Meeting.pdf)
 
-🌟 [Cyber Aegis Python Workshop Series 2022](https://tinyurl.com/cyber-aegis-python)
+⭐ [Cyber Aegis Python Workshop Series 2022](https://tinyurl.com/cyber-aegis-python)
 
-🌟 [Python Pizza Hamburg Conference 2020: Cat GIFS & the Ten Python Packages of 2020](https://docs.google.com/presentation/d/1m4HYGgQy2E6EJhx0Bley5M0kuDNYkfApxSodqENU1OQ/edit?usp=sharing)
+⭐ [Python Pizza Hamburg Conference 2020: Cat GIFS & the Ten Python Packages of 2020](https://docs.google.com/presentation/d/1m4HYGgQy2E6EJhx0Bley5M0kuDNYkfApxSodqENU1OQ/edit?usp=sharing)
 
-🌟 [Pycon Canada Conference 2019: Data Insights from Linked Data](https://docs.google.com/presentation/d/1T57ePFj-ZWAo04vi44e3E56X8_XVkeInWIk3R_lnBM8/edit?usp=sharing)
+⭐ [Pycon Canada Conference 2019: Data Insights from Linked Data](https://docs.google.com/presentation/d/1T57ePFj-ZWAo04vi44e3E56X8_XVkeInWIk3R_lnBM8/edit?usp=sharing)
 
 #### Where to Reach Me 📭
 
